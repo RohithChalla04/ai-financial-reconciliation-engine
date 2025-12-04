@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pandas
+pytesseract
+langchain
+python-dotenv
+fuzzywuzzy
+python-Levenshtein
+pydantic
+openai
+groq
+pypdf
